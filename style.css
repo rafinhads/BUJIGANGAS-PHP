@@ -1,0 +1,78 @@
+#Home{
+    height: 800px;
+}
+body{
+    background-color: #c3c3c3;
+    margin-top: 50px;
+}
+#Cadastro{
+    font-weight:bold;
+    color: black;
+    margin-right: 30px;
+
+}
+#menu{
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+#cadastrar{
+    font-weight:bold;
+    color: black;
+    font-size: 15px;
+    margin-top: 20px;
+}
+#formulario{
+    border-bottom: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-top: 1px solid lightgray; 
+    width: 500px;
+    height: 350px;
+
+
+
+}
+#espacamento{
+    text-align: center;
+    margin-top: 50px;
+}
+#input, #telefone, #cpf, #cep{
+
+    width: 200px;
+    margin-top: 10px;
+    height: 20px;
+}
+
+#select{
+    width: 210px;
+    margin-top: 10px;
+    height: 28px;
+}
+#Div{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;  
+}
+#botao{
+    margin-top: 10px;
+    background-color: gray;
+    color: white;
+    width: 150px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 300px;
+
+}
+th, td {
+    border: 1px solid lightgray;
+    padding: 8px;
+    text-align: center;
+    width: auto;
+}
